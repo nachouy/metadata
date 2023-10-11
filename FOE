@@ -1,0 +1,166 @@
+[
+    {
+        "@context": "http:\\/\\/schema.org",
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@context": "http:\\/\\/schema.org",
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@context": "http:\\/\\/schema.org",
+                    "@type": "Movie",
+                    "name": "Foe",
+                    "image": [
+                        {
+                            "@context": "http:\\/\\/schema.org",
+                            "@type": "ImageObject",
+                            "url": "https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg?fit=220%2C220&p=1",
+                            "identifier": 3437659
+                        }
+                    ],
+                    "url": "https:\\/\\/www.amazon.com\\/dp\\/B0C9H5RQ2K",
+                    "dateCreated": "2023-10-06",
+                    "director": {
+                        "@context": "http:\\/\\/schema.org",
+                        "@type": "Person",
+                        "name": "Garth Davis"
+                    },
+                    "review": {
+                        "@context": "http:\\/\\/schema.org",
+                        "@type": "Review",
+                        "reviewRating": {
+                            "@context": "http:\\/\\/schema.org",
+                            "@type": "Rating",
+                            "worstRating": 1,
+                            "bestRating": 10,
+                            "ratingValue": 8
+                        },
+                        "author": {
+                            "@context": "http:\\/\\/schema.org",
+                            "@type": "Person",
+                            "name": "Jason Struss"
+                        },
+                        "reviewBody": "We live in a time when science fiction is quickly becoming a reality. Self-driving cars are becoming more commonplace on highways. [internal-link post_id=\"2441503\" sponsored=\"false\" taxonomy=\"true\"]Artificial intelligence[\\/internal-link] is challenging, or threatening depending on your stance, the very idea of individual human consciousness. And virtual reality is now a regular part of life; less <em>The Lawnmower Man<\\/em>-type horrors than more of a banal extension of our daily routines like shopping, paying bills, or dating.\r\n\r\nThe beauty of Garth Davis' new movie, <em>Foe<\\/em>, is that it plays as both a throwback to the humanistic sci-fi tales of the 1960s and 1970s, when the genre was concerned more with personal dilemmas than with elaborate space battles or exotic alien species, and as a cautionary mirror to the near future, when climate change and technology has forced all of humanity to change...or else. Yet unlike Hollywood's recent alarmist blockbusters like <em>[internal-link post_id=\"3434535\" sponsored=\"false\" taxonomy=\"false\"]The Creator[\\/internal-link]<\\/em> or <em>[internal-link post_id=\"3385389\" sponsored=\"false\" taxonomy=\"false\"]Mission: Impossible - Dead Reckoning Part 1[\\/internal-link]<\\/em>, <em>Foe<\\/em> uses its future dystopia as mere window dressing to get at something deeper and more universal. When all is said and done, <em>Foe<\\/em> isn't about the future, really, but rather about something far more intimate and unsettling: the vulnerability of marriage tested by inertia and outside change.\r\n<h2>A sci-fi dystopia that looks all too familiar<\\/h2>\r\n<img class=\"alignnone size-large wp-image-3436937\" src=\"https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/foe-2023-3.jpg?fit=720%2C720&amp;p=1\" alt=\"A man wears a space suit in Foe.\" width=\"720\" height=\"405\" \\/>\r\n\r\nRight away, <em>Foe<\\/em> paints a bleak picture: It's the near future, the world's water supply has run low, and climate change has devastated virtually every corner of the world. Situated in the dried-out Dust Bowl of America's heartland, young married couple Henrietta, or Hen, (Saoirse Ronan) and Junior (Paul Mescal) do their best to get by. Hen works as a diner waitress and tends to their lifeless homestead, sparing enough recycled water to feed one tree, while Junior works at a meat processing plant in a nearby town. Life is hard, but not impossible; there are moments of lightness and humor between the two, and they fight and make love just like any other couple.\r\n\r\nHen and Junior's daily routine is disturbed one night by the arrival of Terrance, a stranger who proposes an intriguing offer: Junior has been selected to be a test subject in a space colony that will eventually replace Earth as a habitat for humanity. Will he go and become one of the first citizens of a fully functional outer space station? It's a once-in-a-lifetime proposal, one that will give meaning to Junior's life and a potential future for them both.\r\n\r\nThere is, of course, a catch: Junior will be away for a long time, leaving Hen to take care of the house and potentially harming their marriage. As a solution, Terrance offers Hen an AI companion who looks, acts, and sounds exactly like Junior. After some brief hesitation from Hen and uncertainty from Junior, they eventually accept the offer. Junior goes off to space, and Hen is left with AI Junior\r\n<h2>More than meets the AI<\\/h2>\r\n<img class=\"alignnone size-large wp-image-3436939\" src=\"https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/foe-4.jpg?fit=720%2C720&amp;p=1\" alt=\"A man rests his head on a woman's shoulder in Foe.\" width=\"720\" height=\"431\" \\/>\r\n\r\nI've described <em>Foe<\\/em>'s plot as best I can, but the movie unfolds in a slightly different way, with a buildup and a third-act narrative twist that's at once shocking and logical. From the very first scene, things seem a bit <em>off<\\/em>, and for a long while, you can't really tell why. Is Hen suspicious of her husband from the get-go? Why does Junior appear to be jealous of Terrance? And what's the deal with that pesky beetle, which carries more metaphorical weight than you realize?\r\n\r\nThe director, Garth Davis, strikes a delicate balance between establishing a believable marriage while also laying the foundation for a story that will eventually reveal another hidden layer, one that will question everything you've just seen. yet what could have felt manipulative and dishonest instead feels genuinely suspenseful and intriguing; it's not a cheap trick. In a sci-fi movie largely set in an old home straight out of the 20th century, <em>Foe<\\/em> still feels modern and urgent; there are few lulls in its narrative, and that's because Davis keeps you engaged with the story and makes you care about the movie's central relationship.\r\n<h2>A talented cast and crew<\\/h2>\r\n<img class=\"alignnone size-large wp-image-3437759\" src=\"https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/foe-5.jpg?fit=720%2C720&amp;p=1\" alt=\"A woman looks forward in Foe.\" width=\"720\" height=\"340\" \\/>\r\n\r\nOf course, it helps that Davis has a talented cast and crew that help bring this skewed sci-fi tale to life. As Hen, Ronan finds shades of subtlety and strength in a character that could've been shrill and one-note. Hen isn't a victim, but she isn't a symbol of independence either, and Ronan brings out all of the character's complexities without going overboard. As Junior, Mescal adds yet another sad-eyed man-boy to his filmography, but his performance here feels different from his previous work in <em>Normal People<\\/em> and <em>[internal-link post_id=\"3209428\" sponsored=\"false\" taxonomy=\"false\"]Aftersun[\\/internal-link]<\\/em>. His Junior is alternatively angry, confused, and defiant, and he pulls off a tricky act that sells the third act twist. As Terrance, Aaron Pierre doesn't have much to do except look vaguely menacing, but he gives the character a surprising charge, one both violent and erotic, that adds more depth to the character than probably what was intended.\r\n\r\nVisually, <em>Foe<\\/em> is one of the richest-looking movies of the year. The cinematographer, M\\u00e1ty\\u00e1s Erd\\u00e9ly, uses dusty browns and washed-out yellows to suggest a thirsty earth as well as a starved marriage, but he punctuates these scenes with occasional bursts of shadow and color that suggest a life beyond the homestead and the promise of change for both Junior and Henrietta. There's one bravura scene in the middle of the movie that's unforgettable; at sunset, Junior and Hen run after a wild horse, only to discover a wildfire burning in the dark, with both humans and animals trying to take cover from it. It's a visual that encapsulates what the movie is about: a fire scorching the earth, disturbing everyone around it, but also giving life to the couple that run toward it, suggesting rebirth and a new start.\r\n<h2>Not your typical downbeat sci-fi movie<\\/h2>\r\n[dt-video-embed id=\"3426665\" ]\r\n\r\n<em>Foe<\\/em> could've been a bummer of a movie, yet another sci-fi tale that tells us we're all doomed, but instead, it's one of the most hopeful movies out there. It's also one of the most original sci-fi movies in the last 10 years as, like <em>Ex Machina<\\/em> and <em>[internal-link post_id=\"3419849\" sponsored=\"false\" taxonomy=\"false\"]Arrival[\\/internal-link]<\\/em> before it, it is less concerned with the superficial pleasures the genre brings and more interested in asking basic questions about humanity without finding any easy answers.\r\n\r\nIt's not a stretch to say that the movie, in its sometimes brutal portrayal of a disintegrating marriage, has more in common with the 1966 classic <em>Who's Afraid of Virginia Wolfe?<\\/em> than, say, <em>Alien<\\/em>, and that's what makes it so special. You won't see anything quite like <em>Foe<\\/em> this year, and you won't soon forget it either.\r\n\r\nFoe <em>is currently playing in theaters nationwide.<\\/em>"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http:\\/\\/schema.org",
+        "@type": "Product",
+        "name": "Foe",
+        "image": "https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/Foe-1.jpg?p=1",
+        "Review": {
+            "@context": "http:\\/\\/schema.org",
+            "@type": "Review",
+            "author": [
+                {
+                    "@context": "http:\\/\\/schema.org",
+                    "@type": "Person",
+                    "name": "Jason Struss",
+                    "url": "https:\\/\\/www.digitaltrends.com\\/users\\/jstruss\\/",
+                    "knowsAbout": [
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/action\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/amazon\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/apple\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/comic-book-movie-news\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/features\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/hbo\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/marvel\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/hbo-max\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/netflix\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/paramount\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/peacock\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/sci-fi\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/streaming\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/topic\\/news\\/",
+                        "https:\\/\\/www.digitaltrends.com\\/movies\\/"
+                    ]
+                }
+            ],
+            "award": "",
+            "datePublished": "2023-10-06T07:30:49-07:00",
+            "headline": "Foe review: One of 2023&#8217;s best sci-fi movies that will break your heart",
+            "image": "https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/Foe-1.jpg?p=1",
+            "thumbnailUrt": "https:\\/\\/www.digitaltrends.com\\/wp-content\\/uploads\\/2023\\/10\\/Foe-1.jpg?p=1",
+            "publisher": {
+                "@context": "http:\\/\\/schema.org",
+                "@type": "Organization",
+                "name": "Digital Trends",
+                "logo": {
+                    "@context": "http:\\/\\/schema.org",
+                    "@type": "ImageObject",
+                    "url": "https:\\/\\/www.digitaltrends.com\\/wp-content\\/themes\\/digitaltrends-2018\\/assets\\/images\\/logo-schema.png"
+                }
+            },
+            "url": "https:\\/\\/www.digitaltrends.com\\/movies\\/foe-2023-movie-review\\/",
+            "articleSection": "Entertainment",
+            "keywords": [
+                "Review",
+                "Reviews",
+                "2023 movies",
+                "2023 sci-fi movies",
+                "Foe (2023 movie)",
+                "Garth Davis",
+                "Movie Reviews",
+                "Paul Mescal",
+                "Saoirse Ronan"
+            ],
+            "reviewRating": {
+                "@context": "http:\\/\\/schema.org",
+                "@type": "Rating",
+                "worstRating": 1,
+                "bestRating": 10,
+                "ratingValue": 8
+            },
+            "positiveNotes": {
+                "@context": "http:\\/\\/schema.org",
+                "@type": "ItemList",
+                "itemListElement": [
+                    {
+                        "@context": "http:\\/\\/schema.org",
+                        "@type": "ListItem",
+                        "name": "An intriguing story",
+                        "position": 1
+                    },
+                    {
+                        "@context": "http:\\/\\/schema.org",
+                        "@type": "ListItem",
+                        "name": "Great performances from the two lead actors",
+                        "position": 2
+                    },
+                    {
+                        "@context": "http:\\/\\/schema.org",
+                        "@type": "ListItem",
+                        "name": "Beautiful cinematography",
+                        "position": 3
+                    }
+                ]
+            },
+            "negativeNotes": {
+                "@context": "http:\\/\\/schema.org",
+                "@type": "ItemList",
+                "itemListElement": [
+                    {
+                        "@context": "http:\\/\\/schema.org",
+                        "@type": "ListItem",
+                        "name": "A third act twist that isn't that surprising",
+                        "position": 1
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "@context": "http:\\/\\/schema.org",
+        "@type": "VideoObject",
+        "name": "FOE | Official Trailer",
+        "description": "DT Video",
+        "thumbnailUrl": "https:\\/\\/i.ytimg.com\\/vi\\/sAh-xgggcfI\\/hqdefault.jpg",
+        "uploadDate": "2023-10-06T07:30:49+00:00",
+        "contentUrl": "https:\\/\\/youtu.be\\/sAh-xgggcfI",
+        "duration": "PT0H0M1S"
+    }
+]
